@@ -124,4 +124,4 @@ npm run dev
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-**Maintained by:** [Saanvi Chauhan](https://github.com/saanvi-chauhan)
+**Maintained by:** [Aditya Ankanath](https://github.com/AdityaAdi07)
